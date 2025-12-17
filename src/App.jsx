@@ -616,7 +616,7 @@ export default function App() {
             
             <div className="mt-6 pt-4 border-t border-green-900">
               <p className="text-green-700 text-xs text-center">
-                Enter API key<br/>
+                Enter Decryption Key<br/>
                 <span className="text-green-500">Top Secret</span>
               </p>
             </div>
