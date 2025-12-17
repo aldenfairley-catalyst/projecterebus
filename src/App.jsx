@@ -616,8 +616,8 @@ export default function App() {
             
             <div className="mt-6 pt-4 border-t border-green-900">
               <p className="text-green-700 text-xs text-center">
-                Please Enter Decryption Key<br/>
-                <span className="text-green-500">Classified</span>
+                Get your API key from<br/>
+                <span className="text-green-500">aistudio.google.com</span>
               </p>
             </div>
           </div>
