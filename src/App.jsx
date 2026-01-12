@@ -865,7 +865,7 @@ export default function App() {
           <div className="bg-gray-900 border-2 border-yellow-700 p-6 rounded-lg mb-8 text-left">
             <p className="text-yellow-500 text-lg font-bold mb-3">FINAL MESSAGE:</p>
             <p className="text-green-300 text-lg leading-relaxed">
-              <TypeWriter text={`Well well well, ${hackerName}. You actually did it. Every system compromised. Every password extracted. Servers down. Photocopiers screaming. Coffee machines plotting. All because someone with a friendly title told you it was "authorized security testing." I said I was your Security Director. I said trust me. And you did. Again and again. Even when the real security team tried to warn you. The skills you learned today are REAL. The vulnerabilities are REAL. And so is this question: how many red flags did you ignore because someone in authority told you to? Enjoy your certificate, ${hackerName}. You've earned it. - Your "Security Director" 😊`} speed={18} />
+              <TypeWriter text={`Well well well, ${hackerName}. You actually did it. Every system compromised. Every password extracted. Servers down. Photocopiers screaming. Coffee machines plotting. Enjoy your certificate, ${hackerName}. You've earned it. - Your "Security Director" 😊`} speed={18} />
             </p>
           </div>
           
